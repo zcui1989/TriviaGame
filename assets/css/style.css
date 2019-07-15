@@ -1,0 +1,21 @@
+.container{
+    position: fixed;
+    left:40%;
+    top:10%;
+}
+h1{
+    position: absolute;
+    align-content: center;
+    
+}
+#start{
+    position: absolute;
+    align-content: center;
+    top:100px;
+}
+#display{
+    position: absolute;
+    align-content: center;
+    top:200px;
+}
+}
